@@ -10,7 +10,8 @@ Visual Studio 2015가 설치되어있어야 합니다. `https://www.visualstudio
 
 만약 인스톨러가 필요하지 않으면 빌드 전 솔루션에서 인스톨러를 제거하시면 됩니다.
 
-GitHub의 100MB 파일 크기 제한 때문에 어쩔 수 없이 만들었던 압축 파일들을 풀어야 합니다. (여기를 참조하세요 `[Setup1/ReadMe_KOR.txt](Setup1/ReadMe_KOR.txt)`)
+GitHub의 100MB 파일 크기 제한 때문에 어쩔 수 없이 만들었던 압축 파일들을 풀어야 합니다. 
+(여기를 참조하세요 `[Setup1/ReadMe_KOR.txt](Setup1/ReadMe_KOR.txt)`)
 
 빌드
 --------
