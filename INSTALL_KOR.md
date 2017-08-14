@@ -16,7 +16,7 @@ GitHub의 100MB 파일 크기 제한 때문에 어쩔 수 없이 만들었던 �
 빌드
 --------
 
-저장소를 `Clone`하거나 ZIP 파일의 압축을 푼 뒤에 솔루션을 아래의 방법으로 엽니다.
+저장소를 `Clone`하거나 ZIP 파일의 압축을 푼 뒤에는 솔루션을 아래의 방법으로 엽니다.
 `파일->열기->프로젝트/솔루션/[local repository path\wwt-windows-client<-master>]\WWTExplorer.sln`
 
 그 뒤, `빌드 -> 솔루션 빌드`를 선택하세요.
